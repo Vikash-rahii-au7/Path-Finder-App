@@ -1,6 +1,6 @@
 # TravelPathFinder
 
-Travel Path Finder Web App Using javascript.
+Travel Path Finder Web App Using javascript. you can access by git clone in your terminal and open index.html file
 
 ## Application overview
 
